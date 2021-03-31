@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/blog-mountain/static/css/main.4a4b0f5d.chunk.css",
+    "main.js": "/blog-mountain/static/js/main.450953fe.chunk.js",
+    "main.js.map": "/blog-mountain/static/js/main.450953fe.chunk.js.map",
+    "runtime-main.js": "/blog-mountain/static/js/runtime-main.dc37a12b.js",
+    "runtime-main.js.map": "/blog-mountain/static/js/runtime-main.dc37a12b.js.map",
+    "static/js/2.32c16a1a.chunk.js": "/blog-mountain/static/js/2.32c16a1a.chunk.js",
+    "static/js/2.32c16a1a.chunk.js.map": "/blog-mountain/static/js/2.32c16a1a.chunk.js.map",
+    "index.html": "/blog-mountain/index.html",
+    "static/css/main.4a4b0f5d.chunk.css.map": "/blog-mountain/static/css/main.4a4b0f5d.chunk.css.map",
+    "static/js/2.32c16a1a.chunk.js.LICENSE.txt": "/blog-mountain/static/js/2.32c16a1a.chunk.js.LICENSE.txt",
+    "static/media/delete.0b76a5fc.svg": "/blog-mountain/static/media/delete.0b76a5fc.svg",
+    "static/media/edit.3c70b537.svg": "/blog-mountain/static/media/edit.3c70b537.svg",
+    "static/media/info.a0467430.svg": "/blog-mountain/static/media/info.a0467430.svg",
+    "static/media/logo.d46dcc1c.png": "/blog-mountain/static/media/logo.d46dcc1c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc37a12b.js",
+    "static/js/2.32c16a1a.chunk.js",
+    "static/css/main.4a4b0f5d.chunk.css",
+    "static/js/main.450953fe.chunk.js"
+  ]
+}
