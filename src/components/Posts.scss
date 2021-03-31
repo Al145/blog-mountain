@@ -1,0 +1,32 @@
+.header{
+  &__posts_content {
+    margin: 0 auto;
+    max-width: 600px;
+    min-height: 300px;
+    border: 1px black solid;
+    margin-bottom: 35px;
+    margin-top: 25px;
+  }
+  &__posts hr {
+    max-width: 90%;
+    margin: 0 auto;
+    margin-bottom: 12px;
+  }
+  &__posts_title {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 300;
+    margin: 5px 35px 0 35px;
+  }
+  &__posts_body {
+    text-align: center;
+    margin: 10px 35px 50px 35px;
+  }
+  &__posts_comment_block {
+    text-align: center;
+  }
+  &__posts_comment {
+    padding: 20px 70px;
+    margin-top: 10px;
+  }
+}

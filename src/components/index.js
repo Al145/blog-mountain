@@ -1,0 +1,10 @@
+export { default as Header } from './Header'; 
+export { default as Posts } from './Posts'; 
+export { default as Footer } from './Footer'; 
+export { default as isLoading } from './Loader'; 
+export { default as Button } from './Button'; 
+export { default as AddCommentToPost } from './AddCommentToPost'; 
+export { default as PostInfo } from './PostInfo'; 
+export { default as EditPost } from './EditPost'; 
+export { default as CreateNewPost } from './CreateNewPost'; 
+export { default as Empty } from './Empty'; 

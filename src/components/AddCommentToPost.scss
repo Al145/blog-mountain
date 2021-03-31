@@ -1,0 +1,32 @@
+.form {
+  &_content {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+  &_input {
+    padding: 20px;
+    font-size: 18px;
+    margin: 0 auto;
+  }
+  &_btn {
+    max-width: 262px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding-top: 10px;
+  }
+  &_label {
+    margin-top: 5px;
+  }
+  &_add {
+    padding: 5px 20px;
+  }
+  &_back {
+    padding: 5px 20px;
+  }
+  &_back_a {
+    text-decoration: none;
+    color: black;
+  }
+}
